@@ -139,7 +139,6 @@ FILTERING PIPELINE (from raw CST to final 506)
 ================================================================================
 
   CST raw simulations:          747 files (S_Parameter_Results_for_stop/)
-    ├── ID1138: Re/Im format → excluded
     ├── 48 with no detectable S21 notch (S21_min > -3 dB) → excluded
     ├── 20 with weak resonance (-3 to -10 dB) → excluded
     └── 172 with strong resonance (< -10 dB) but Foster L/C/alpha
