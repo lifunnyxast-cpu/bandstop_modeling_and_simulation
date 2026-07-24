@@ -1,5 +1,5 @@
 ================================================================================
-STOP Bandstop FSS Dataset — Public Release for IEEE TAP Submission
+STOP Bandstop FSS Dataset
 ================================================================================
 Date: 2026-07-24
 
@@ -8,8 +8,6 @@ simulation pipeline accompanying the paper:
 
   "Spatial Dispersion Compensated Equivalent Circuit Model for
    Wide-Angle Frequency-Selective Surfaces"
-
-Authors: Li Li,...
 
 ================================================================================
 FILE INVENTORY
