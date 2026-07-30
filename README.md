@@ -3,11 +3,11 @@ STOP Bandstop FSS Dataset
 ================================================================================
 Date: 2026-07-24
 
-This folder contains the complete bandstop (stop-type) FSS dataset and
-simulation pipeline accompanying the paper:
+This folder contains the complete bandstop (stop-type) FSS dataset and simulation pipeline accompanying the paper:
 
-  "Spatial Dispersion Compensated Equivalent Circuit Model for
-   Wide-Angle Frequency-Selective Surfaces"
+"Spatial Dispersion Compensated Equivalent Circuit Model for Wide-Angle Frequency-Selective Surfaces"
+
+The accompanying **Spatial Dispersion-Compensated Equivalent Circuit Model Extraction Tool** (`SDC-ECM.exe`) is available for download from this release.
 
 ================================================================================
 FILE INVENTORY
